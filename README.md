@@ -5,5 +5,7 @@
 	<div> ⚙️C/C++  🐍Python  👾Java  🗑️JS </div>
 
 </div>
-![raox_3Dcard](/profile-3d-contrib/profile-green-animate.svg)
-lkmsdmdcds
+![raox_3Dcard]()
+<div align="center">
+  	<img src="/profile-3d-contrib/profile-green-animate.svg" alt="Hi" width="100" />
+</div>
