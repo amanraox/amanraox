@@ -9,6 +9,6 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-rainbow.svg">
   <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-green-animate.svg">
-  <img alt="GitHub Profile Image" src="https://yourdomain.com/light-image.png">
+  <img alt="GitHub Profile Image" src="/profile-3d-contrib/profile-green-animate.svg">
 </picture>
-<img src="/profile-3d-contrib/profile-green-animate.svg" alt="Hi" />
+ <!-- <img src="/profile-3d-contrib/profile-green-animate.svg" alt="Hi" /> -->
