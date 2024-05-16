@@ -16,9 +16,10 @@ export default function(output, _hist, ...args) {
             break;
         default:
             output.innerHTML += `\
-<span data-color="white">Github: <a href="https://github.com/amanraox">@SX-9</a></span>
-<span data-color="MediumSlateBlue">Discord: <a href="https://discord.st/amanraox">satr14</a></span>
-<span data-color="yellow">Email: <a href="mailto:sx-91@outlook.com">amanraox@icloud.com</a></span>`;
+<span data-color="white">Github: <a href="https://github.com/amanraox">amanraox</a></span>
+<span data-color="MediumSlateBlue">Discord: <a href="https://discord.com/users/amanraox">amanraox</a></span>
+<span data-color="yellow">Email: <a href="mailto:sx-91@outlook.com">amanraox@icloud.com</a></span>;
+<span data-color="yellow">Linkedin: <a href="https://linkedin.com/in/amanraox">Aman Umrao</a></span>`;
         return;
     }
 }
