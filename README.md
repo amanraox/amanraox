@@ -6,4 +6,9 @@
 	<div> ⚙️C/C++  🐍Python  👾Java  🗑️JS </div>
 
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-rainbow.svg">
+  <source media="(prefers-color-scheme: light)" srcset="/profile-3d-contrib/profile-green-animate.svg">
+  <img alt="GitHub Profile Image" src="https://yourdomain.com/light-image.png">
+</picture>
 <img src="/profile-3d-contrib/profile-green-animate.svg" alt="Hi" />
