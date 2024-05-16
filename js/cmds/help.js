@@ -1,13 +1,13 @@
 export default function(output) {
     output.innerHTML += `\
 Here Is A List Of Commands:
-    <b><span data-color="lime">aman</span> <span data-color="grey">-</span> <span data-color="yellow">check yourself</span></b>
-    <span data-color="lime">help</span> <span data-color="grey">-</span> <span data-color="yellow">Displays This.</span>
-    <span data-color="lime">gui</span> <span data-color="grey">-</span> <span data-color="yellow">Activate Graphical Mode.</span>
-    <span data-color="lime">about</span> <span data-color="grey">-</span> <span data-color="yellow">Who Is This?</span>
-    <span data-color="lime">quote</span> <span data-color="grey">-</span> <span data-color="yellow">Just Some Random Quotes.</span>
-    <span data-color="lime">source</span> <span data-color="grey">-</span> <span data-color="yellow">Source Code For This Website.</span>
-    <span data-color="lime">projects [name?]</span> <span data-color="grey">-</span> <span data-color="yellow">My Github Repos!</span>
+    <b><span data-color="lime">aman            </span> <span data-color="grey">-</span> <span data-color="yellow">check yourself</span></b>
+    <span data-color="lime">help               </span> <span data-color="grey">-</span> <span data-color="yellow">Displays This.</span>
+    <span data-color="lime">gui                </span> <span data-color="grey">-</span> <span data-color="yellow">Activate Graphical Mode.</span>
+    <span data-color="lime">about              </span> <span data-color="grey">-</span> <span data-color="yellow">Who Is This?</span>
+    <span data-color="lime">quote              </span> <span data-color="grey">-</span> <span data-color="yellow">Just Some Random Quotes.</span>
+    <span data-color="lime">source             </span> <span data-color="grey">-</span> <span data-color="yellow">Source Code For This Website.</span>
+    <span data-color="lime">projects [name?]   </span> <span data-color="grey">-</span> <span data-color="yellow">My Github Repos!</span>
     <span data-color="lime">socials [platform?]</span> <span data-color="grey">-</span> <span data-color="yellow">Contact Me Here!</span>
 <span data-color="grey">--------------------------------------------</span>
 Extra Commands For Fun:
