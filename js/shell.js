@@ -11,7 +11,8 @@ const welcome = `<div class="nomobile">
     
 <span data-color="yellow">So finally you found this corner of the internet</span>
 
-Welcome! I'm <span data-color="red"><a href="https://linkedin.com/in/amanraox">Aman Umrao</a></span>, a self-taught <span data-color="yellow">Web Developer</span> and hobbyist <span data-color="yellow">Competitive Programmer</span> from <span data-color="lime">India</span>🇮🇳️.
+Welcome!
+I'm <span data-color="red"><a href="https://linkedin.com/in/amanraox">Aman Umrao</a></span>, a self-taught <span data-color="yellow">Web Developer</span> and hobbyist <span data-color="yellow">Competitive Programmer</span> from <span data-color="lime">India</span>🇮🇳️.
 My passion lies in leveraging coding to solve real-world problems, whether it's developing efficient algorithms or creating user-friendly websites.
 When I'm not working on personal projects, you can find me solving problems on Codeforces or exploring the latest trends in the tech world.
 As a Linux enthusiast and advocate for open-source software, I'm dedicated to contributing to innovative projects that drive meaningful change.
