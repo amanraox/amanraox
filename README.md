@@ -42,5 +42,5 @@
 </div>				-->
 <p align="middle">
   <img src="https://leetcard.jacoblin.cool/raoxaman?theme=dark" width="370" />
-  <img src="/asset/spotifyd.svg" width="470" />
+  <img src="/asset/spotifyd.svg" width="465" />
 </p>
