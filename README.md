@@ -41,6 +41,6 @@
             </picture>
 </div>				-->
 <p align="middle">
-  <img src="https://leetcard.jacoblin.cool/raoxaman?theme=dark" width="370" />
-  <img src="/asset/spotifyd.svg" width="461" />
+  <a href="https://leetcode.com/u/raoxaman/"><img src="https://leetcard.jacoblin.cool/raoxaman?theme=dark" width="370" /></a>
+  <a href="https://open.spotify.com/album/3pFzzo6Z1oD7qaxk4DBJpY?si=KhZeMgEORZivgn9SKuw8eQ"><img src="/asset/spotifyd.svg" width="461" /></a>
 </p>
