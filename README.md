@@ -25,8 +25,20 @@
   <img alt="GitHub Profile Image" src="/profile-3d-contrib/profile-green-animate.svg">
 </picture>
  </div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/raoxaman?theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/raoxaman?theme=light">
-  <img alt="GitHub Profile Image" src="/profile-3d-contrib/profile-green-animate.svg">
-</picture>
+
+<div style="display: flex; width: 100%;">
+        <div style="flex: 1;">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/raoxaman?theme=dark">
+  		<source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/raoxaman?theme=light">
+                <img src="image1-light.jpg" alt="Image 1" style="width: 100%; height: auto;">
+            </picture>
+        </div>
+        <div style="flex: 1;">
+            <picture>
+                <source media="(prefers-color-scheme: dark)" srcset="/asset/spotifyd.svg">
+  		<source media="(prefers-color-scheme: light)" srcset="/asset/spotifyd.svg">
+                <img src="image2-light.jpg" alt="Image 2" style="width: 100%; height: auto;">
+            </picture>
+        </div>
+    </div>
