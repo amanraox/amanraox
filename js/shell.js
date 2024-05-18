@@ -40,7 +40,7 @@ window.addEventListener("DOMContentLoaded", () => {
       command.setAttribute("placeholder", command.value);
       command.setAttribute("readonly", true);
       document
-        .querySelectorAll(".help")
+        .querySelectorAll(".about")
         .forEach((el) => el.parentElement.remove());
 
       if (command.value.includes("&&")) {
