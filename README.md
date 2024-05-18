@@ -26,7 +26,7 @@
 </picture>
  </div>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-stats-six.vercel.app/?username=raoxaman&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://leetcode-stats-six.vercel.app/?username=raoxaman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/raoxaman?theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/raoxaman?theme=light">
   <img alt="GitHub Profile Image" src="/profile-3d-contrib/profile-green-animate.svg">
 </picture>
