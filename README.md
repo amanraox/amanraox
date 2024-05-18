@@ -41,3 +41,5 @@
             </picture>
 </div>
 <img src="https://leetcard.jacoblin.cool/raoxaman?theme=dark" width="425"/> <img src="/asset/spotifyd.svg" width="425"/> 
+<img src="https://openclipart.org/image/2400px/svg_to_png/28580/kablam-Number-Animals-1.png" width="200"/> <img src="https://openclipart.org/download/71101/two.svg" width="300"/>
+
