@@ -25,3 +25,8 @@
   <img alt="GitHub Profile Image" src="/profile-3d-contrib/profile-green-animate.svg">
 </picture>
  </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-stats-six.vercel.app/?username=raoxaman&theme=dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://leetcode-stats-six.vercel.app/?username=raoxaman">
+  <img alt="GitHub Profile Image" src="/profile-3d-contrib/profile-green-animate.svg">
+</picture>
