@@ -26,7 +26,7 @@
 </picture>
  </div>
 
-<div style="display: flex; width: 50%;">
+<div style="display: flex; width: 100%;">
         <div style="flex: 1;">
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/raoxaman?theme=dark">
