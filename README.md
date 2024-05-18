@@ -40,3 +40,5 @@
                 <img src="image2-light.jpg" alt="Image 2" style="width: 100%; height: auto;">
             </picture>
 </div>
+<img src="/asset/spotifyd.svg" style="float:left; margin-right:10px;">
+<img src="https://leetcard.jacoblin.cool/raoxaman?theme=dark" style="float:left;"> 
