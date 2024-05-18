@@ -40,11 +40,4 @@
                 <img src="image2-light.jpg" alt="Image 2" style="width: 100%; height: auto;">
             </picture>
 </div>
-<div style="display: flex;">
-  <div style="flex: 50%; padding: 10px;">
-    <img src="https://leetcard.jacoblin.cool/raoxaman?theme=dark" alt="Image 1" style="max-width: 100%; height: auto;">
-  </div>
-  <div style="flex: 50%; padding: 10px;">
-    <img src="/asset/spotifyd.svg" alt="Image 2" style="max-width: 100%; height: auto;">
-  </div>
-</div>
+<img src="https://leetcard.jacoblin.cool/raoxaman?theme=dark" width="425"/> <img src="/asset/spotifyd.svg" width="425"/> 
