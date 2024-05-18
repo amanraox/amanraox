@@ -41,6 +41,6 @@
             </picture>
 </div>				-->
 <p align="middle">
-  <a href="https://leetcode.com/u/raoxaman/" target="_blank"><img src="https://leetcard.jacoblin.cool/raoxaman?theme=dark" width="370" /></a>
-  <a href="https://open.spotify.com/album/3pFzzo6Z1oD7qaxk4DBJpY?si=KhZeMgEORZivgn9SKuw8eQ" target="_blank"><img src="/asset/spotifyd.svg" width="461" /></a>
+  <a href="https://leetcode.com/u/raoxaman/" target="_blank" rel="noopener noreferrer"><img src="https://leetcard.jacoblin.cool/raoxaman?theme=dark" width="370" /></a>
+  <a href="https://open.spotify.com/album/3pFzzo6Z1oD7qaxk4DBJpY?si=KhZeMgEORZivgn9SKuw8eQ" target="_blank" rel="noopener noreferrer"><img src="/asset/spotifyd.svg" width="461" /></a>
 </p>
