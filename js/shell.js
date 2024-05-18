@@ -13,7 +13,7 @@ const welcome = `<div class="nomobile">
 
 Welcome!
 I'm <span data-color="red"><a href="https://linkedin.com/in/amanraox">Aman Umrao</a></span>, a self-taught <span data-color="yellow">Web Developer</span> and hobbyist <span data-color="yellow">Competitive Programmer</span> from <span data-color="lime">India</span>🇮🇳️.
-<b>Play around here..<b>Type <span data-color="yellow">help</span><br> `;
+<br>Play around here..<b>Type <span data-color="yellow">help</span><br> `;
 const sleep = (m) => new Promise((r) => setTimeout(r, m));
 const terminal = document.querySelector("pre");
 const history = [];
