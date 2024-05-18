@@ -25,7 +25,7 @@
   <img alt="GitHub Profile Image" src="/profile-3d-contrib/profile-green-animate.svg">
 </picture>
  </div>
-
+ <!--
 <div style="width: 50%; margin: 0 auto;">
             <picture>
                 <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/raoxaman?theme=dark">
@@ -39,9 +39,8 @@
   		<source media="(prefers-color-scheme: light)" srcset="/asset/spotifyd.svg">
                 <img src="image2-light.jpg" alt="Image 2" style="width: 100%; height: auto;">
             </picture>
-</div>
+</div>				-->
 <p float="left">
-  <img src="/asset/spotifyd.svg" width="100" />
-  <img src="https://leetcard.jacoblin.cool/raoxaman?theme=dark" width="100" /> 
-  <img src="/img3.png" width="100" />
+  <img src="/asset/spotifyd.svg" width="50%" />
+  <img src="https://leetcard.jacoblin.cool/raoxaman?theme=dark" width="50%" />
 </p>
