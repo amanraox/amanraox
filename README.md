@@ -41,6 +41,6 @@
             </picture>
 </div>				-->
 <p float="left">
-  <img src="/asset/spotifyd.svg" width="50%" />
-  <img src="https://leetcard.jacoblin.cool/raoxaman?theme=dark" width="50%" />
+  <img src="/asset/spotifyd.svg" width="300" />
+  <img src="https://leetcard.jacoblin.cool/raoxaman?theme=dark" width="300" />
 </p>
