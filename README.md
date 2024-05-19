@@ -25,7 +25,7 @@
 
 <!-- LIGHT THEME-->
 
-<p align="middle">
+<p>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/raoxaman?theme=light&font=Karma&ext=contest">
 </picture>
