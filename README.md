@@ -19,7 +19,6 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
-    <img src="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
   </picture>
 </p>
 
