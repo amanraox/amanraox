@@ -16,11 +16,11 @@
 <img height="273em" src="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
 <img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
 </p>
-<p align="middle">
- 
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raox/cf-stats/main/output/light_card.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/raoxaman?theme=dark">
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Ctext y='20' font-size='16'%3EThis is for dark theme%3C/text%3E%3C/svg%3E" />
+    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Ctext y='20' font-size='16'%3EThis is for light theme%3C/text%3E%3C/svg%3E" alt="Theme Dependent Text" />
+  </picture>
 </p>
 
 # GitHub Stats <img src = "https://media2.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e47aesxaltjbkcl14elm14io1ph1oj1i3buk2388c21&rid=giphy.gif&ct=s" width =40px>
