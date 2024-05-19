@@ -25,6 +25,10 @@
   <!--<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg">-->
   <img alt="GitHub Profile Image" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" width="200">
 </picture>
+<picture>
+  <!--<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg">-->
+  <img alt="GitHub Profile Image" src="https://skillicons.dev/icons?i=java,kotlin,nodejs&theme=light">
+</picture>
 </p>
 
 # GitHub Stats <img src = "https://media2.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e47aesxaltjbkcl14elm14io1ph1oj1i3buk2388c21&rid=giphy.gif&ct=s" width =40px>
