@@ -4,7 +4,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=0EF7F4&center=true&vCenter=true&random=false&width=435&lines=I'm+an+Engineer;I+write+Bugs!;Explore+What+I've+Build;They+say+I'm+Introvert">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=21&pause=1000&color=34F700&center=true&vCenter=true&random=false&width=435&lines=I'm+an+Engineer;I+write+Bugs!;Explore+What+I've+Build;They+say+I'm+Introvertt">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=21&pause=1000&color=34F700&center=true&vCenter=true&random=false&width=435&lines=I'm+an+Engineer;I+write+Bugs!;Explore+What+I've+Build;They+say+I'm+Introvert">
   <img alt="GitHub Profile Image" src="/profile-3d-contrib/profile-green-animate.svg">
 </picture>
 </div>
@@ -13,14 +13,15 @@
 </div>
 
 <br>
-<b>&#128200; Competitive Programming</b>
 
 
 
 <p align="middle">
 <img height="273em" src="https://leetcard.jacoblin.cool/raoxaman?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
+<img height="275em" src="https://raw.githubusercontent.com/amanraox/cp-statistics/main/output/light_card.svg" />
 </p>
+<div align="center"><b><h3>📈 Competitive Programming 📉</h3></b><br></div>
+
 <!--
 <p style="width: 300px;">
 <picture>
