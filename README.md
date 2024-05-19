@@ -25,7 +25,6 @@
 <p style="width: 300px;">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/raoxaman?theme=light&font=Karma&ext=contest">
-  <img alt="GitHub Profile Image" src="/profile-3d-contrib/profile-green-animate.svg">
 </picture>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg">
