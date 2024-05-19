@@ -143,40 +143,40 @@
                         </div>
                         <div class="bar-container">
                             <div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><div class='bar'></div><style>.bar-container { animation-duration: 2s; }.bar:nth-child(1) {
-                animation-duration: 532ms;
+                animation-duration: 613ms;
                 background: #ff0000;
             }.bar:nth-child(2) {
-                animation-duration: 538ms;
+                animation-duration: 619ms;
                 background: #ff4000;
             }.bar:nth-child(3) {
-                animation-duration: 602ms;
+                animation-duration: 660ms;
                 background: #ff8000;
             }.bar:nth-child(4) {
-                animation-duration: 597ms;
+                animation-duration: 529ms;
                 background: #ffbf00;
             }.bar:nth-child(5) {
-                animation-duration: 573ms;
+                animation-duration: 645ms;
                 background: #ffff00;
             }.bar:nth-child(6) {
-                animation-duration: 723ms;
+                animation-duration: 677ms;
                 background: #bfff00;
             }.bar:nth-child(7) {
-                animation-duration: 598ms;
+                animation-duration: 586ms;
                 background: #80ff00;
             }.bar:nth-child(8) {
-                animation-duration: 618ms;
+                animation-duration: 734ms;
                 background: #40ff00;
             }.bar:nth-child(9) {
-                animation-duration: 559ms;
+                animation-duration: 661ms;
                 background: #00ff00;
             }.bar:nth-child(10) {
-                animation-duration: 729ms;
+                animation-duration: 660ms;
                 background: #00ff40;
             }.bar:nth-child(11) {
-                animation-duration: 694ms;
+                animation-duration: 666ms;
                 background: #00ff80;
             }.bar:nth-child(12) {
-                animation-duration: 575ms;
+                animation-duration: 517ms;
                 background: #00ffbf;
             }</style>
                         </div>
