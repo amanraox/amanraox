@@ -88,5 +88,10 @@
   <img alt="GitHub Profile Image" src="/profile-3d-contrib/profile-green-animate.svg">
 </picture>
   </a>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&textColor=%23ffffff&aColor=%2300ff1a&borderColor=%2300f2ff">
+
 	<img src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&textColor=%23ffffff&aColor=%2300ff1a&borderColor=%2300f2ff"style="vertical-align: middle;" />
+   <img alt="GitHub Profile Image" src="/profile-3d-contrib/profile-green-animate.svg">
+</picture>
 </p>
