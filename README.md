@@ -12,6 +12,15 @@
 
 </div>
 
+<p float="left">
+<img height="205em" src="https://raw.githubusercontent.com/sudiptob2/action-based-github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
+<img height="210em" src="https://raw.githubusercontent.com/sudiptob2/action-based-github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+</p>
+<p float="left">
+<img height="205em" src="https://raw.githubusercontent.com/sudiptob2/action-based-github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
+<img height="210em" src="https://raw.githubusercontent.com/sudiptob2/action-based-github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+</p>
+
 # GitHub Stats <img src = "https://media2.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e47aesxaltjbkcl14elm14io1ph1oj1i3buk2388c21&rid=giphy.gif&ct=s" width =40px>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/profile-3d-contrib/profile-night-rainbow.svg">
