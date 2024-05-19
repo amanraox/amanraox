@@ -12,13 +12,13 @@
 
 </div>
 
-<p float="left">
-<img height="205em" src="https://raw.githubusercontent.com/sudiptob2/action-based-github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
-<img height="210em" src="https://raw.githubusercontent.com/sudiptob2/action-based-github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+<p align="middle">
+<img height="273em" src="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
 </p>
-<p float="left">
-<img height="205em" src="https://raw.githubusercontent.com/sudiptob2/action-based-github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
-<img height="210em" src="https://raw.githubusercontent.com/sudiptob2/action-based-github-stats/master/generated/languages.svg#gh-light-mode-only"/>
+<p align="middle">
+<img height="273em" src="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
 </p>
 
 # GitHub Stats <img src = "https://media2.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e47aesxaltjbkcl14elm14io1ph1oj1i3buk2388c21&rid=giphy.gif&ct=s" width =40px>
