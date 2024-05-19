@@ -17,10 +17,10 @@
 <img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
 </p>
 <p align="middle">
- <picture>
+ 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raox/cf-stats/main/output/light_card.svg">
   <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/raoxaman?theme=dark">
-</picture>
+
 </p>
 
 # GitHub Stats <img src = "https://media2.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e47aesxaltjbkcl14elm14io1ph1oj1i3buk2388c21&rid=giphy.gif&ct=s" width =40px>
