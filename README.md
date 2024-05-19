@@ -15,13 +15,13 @@
 <br>
 <b>&#128200; Competitive Programming</b>
 
-<!--
+
 
 <p align="middle">
 <img height="273em" src="https://leetcard.jacoblin.cool/raoxaman?theme=light&font=Karma&ext=contest" />
 <img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
 </p>
-
+<!--
 <p style="width: 300px;">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/raoxaman?theme=light&font=Karma&ext=contest">
