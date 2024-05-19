@@ -75,19 +75,11 @@
 <a href="https://open.spotify.com/album/3pFzzo6Z1oD7qaxk4DBJpY?si=KhZeMgEORZivgn9SKuw8eQ" target="_blank" rel="noopener noreferrer">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/asset/spotifyd.svg">
-</picture>
-  </a>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?bgColor=%23000000&textColor=%23ffffff&aColor=%2300ff1a&borderColor=%2300f2ff">
-</picture>
-</p>
-<p align="middle">
-   <a href="https://open.spotify.com/album/3pFzzo6Z1oD7qaxk4DBJpY?si=KhZeMgEORZivgn9SKuw8eQ" target="_blank" rel="noopener noreferrer">
-	  <picture>
   <source media="(prefers-color-scheme: light)" srcset="/asset/spotifyl.svg">
 </picture>
   </a>
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?bgColor=%23000000&textColor=%23ffffff&aColor=%2300ff1a&borderColor=%2300f2ff">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&textColor=%23ffffff&aColor=%2300ff1a&borderColor=%2300f2ff">
 </picture>
 </p>
