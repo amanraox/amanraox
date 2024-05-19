@@ -15,7 +15,6 @@
 <br>
 <b>&#128200; Competitive Programming</b>
 
-<!--                      CP START         -->
 <!--
 <p align="middle">
 <img height="273em" src="https://leetcard.jacoblin.cool/raoxaman?theme=light&font=Karma&ext=contest" />
@@ -23,40 +22,6 @@
 </p>
 -->
 
-
-
-
-
-
-<!-- LIGHT THEME 
-
-<p align="middle">
-   <a href="https://open.spotify.com/album/3pFzzo6Z1oD7qaxk4DBJpY?si=KhZeMgEORZivgn9SKuw8eQ" target="_blank" rel="noopener noreferrer">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/raoxaman?theme=light&font=Karma&ext=contest">
-</picture>
-  </a>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg">
-</picture>
-</p>
-
-
-<!-- DARK THEME  
-
-<p align="middle">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/raoxaman?theme=light&font=Karma&ext=contest">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg">
-  <!--<img alt="GitHub Profile Image" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" width="400">-->
-</picture>
-</p>
-
--->
-
-<!--                  KHATAM CP                -->
 
 # GitHub Stats <img src = "https://media2.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e47aesxaltjbkcl14elm14io1ph1oj1i3buk2388c21&rid=giphy.gif&ct=s" width =40px>
 <picture>
