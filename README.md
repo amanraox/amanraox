@@ -113,6 +113,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&textColor=%23ffffff&aColor=%2300ff1a&borderColor=%2300f2ff">
 </picture>
 </p>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/raoxaman?theme=light&font=Karma&ext=contest">
-</picture>
