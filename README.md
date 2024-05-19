@@ -75,7 +75,6 @@
   <a href="https://open.spotify.com/album/3pFzzo6Z1oD7qaxk4DBJpY?si=KhZeMgEORZivgn9SKuw8eQ" target="_blank" rel="noopener noreferrer">
 	  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="/asset/spotifyd.svg">
-  <img alt="GitHub Profile Image" src="/profile-3d-contrib/profile-green-animate.svg">
 </picture>
   </a>
 <picture>
