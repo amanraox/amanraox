@@ -1,25 +1,3 @@
-<style>
-  .responsive-picture {
-    width: 100%;
-  }
-  @media (max-width: 600px) {
-    .responsive-picture {
-      width: 100px;
-    }
-  }
-  @media (min-width: 601px) and (max-width: 1200px) {
-    .responsive-picture {
-      width: 300px;
-    }
-  }
-  @media (min-width: 1201px) {
-    .responsive-picture {
-      width: 500px;
-    }
-  }
-</style>
-
-
 <div align="center">
   	<img src="/experiment/giphy.gif" alt="Hi" width="100" />
 	<div align="center">
