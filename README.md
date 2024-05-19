@@ -23,7 +23,7 @@
 </picture>
 <picture>
   <!--<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg">-->
-  <img alt="GitHub Profile Image" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" width="200">
+  <img alt="GitHub Profile Image" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" width="300">
 </picture>
 <picture>
   <!--<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg">-->
