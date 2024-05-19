@@ -19,7 +19,7 @@
 <p align="middle">
 <img height="315em" src="https://leetcard.jacoblin.cool/raoxaman?theme=dark&font=Duru%20Sans&ext=contest&border=0&radius=13" />
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amanraox/cp-statistics/main/output/light_card.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amanraox/cp-statistics/main/output/light_card.svg">
 </picture>
 </p>
 <div align="center"><b><h3>📈 Competitive Programming 📉</h3></b><br></div>
