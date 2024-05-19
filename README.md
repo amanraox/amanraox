@@ -18,8 +18,8 @@
 </p>
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Ctext y='20' font-size='16'%3EThis is for dark theme%3C/text%3E%3C/svg%3E" />
-    <img src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg'%3E%3Ctext y='20' font-size='16'%3EThis is for light theme%3C/text%3E%3C/svg%3E" alt="Theme Dependent Text" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
+    <img src="https://leetcard.jacoblin.cool/sudiptob2?theme=light&font=Karma&ext=contest" />
   </picture>
 </p>
 
