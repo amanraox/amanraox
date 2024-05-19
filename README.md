@@ -26,9 +26,11 @@
 <!-- LIGHT THEME-->
 
 <p>
+<a href="https://leetcode.com/raoxaman" target="_blank" rel="noopener noreferrer">
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://leetcard.jacoblin.cool/raoxaman?theme=light&font=Karma&ext=contest">
 </picture>
+  </a>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg">
   <img alt="GitHub Profile Image" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" width="400">
@@ -94,17 +96,15 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-jokes.vercel.app/api?bgColor=%23000000&textColor=%23ffffff&aColor=%2300ff1a&borderColor=%2300f2ff">
 </picture>
-
 </p>
+
 <p align="middle">
    <a href="https://open.spotify.com/album/3pFzzo6Z1oD7qaxk4DBJpY?si=KhZeMgEORZivgn9SKuw8eQ" target="_blank" rel="noopener noreferrer">
-	  <picture>
+<picture>
   <source media="(prefers-color-scheme: light)" srcset="/asset/spotifyl.svg">
-  <img alt="GitHub Profile Image" src="/profile-3d-contrib/profile-green-animate.svg">
 </picture>
   </a>
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&textColor=%23ffffff&aColor=%2300ff1a&borderColor=%2300f2ff">
-<img src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&textColor=%23ffffff&aColor=%2300ff1a&borderColor=%2300f2ff"style="vertical-align: middle;" />
 </picture>
 </p>
