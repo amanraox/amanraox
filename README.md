@@ -20,7 +20,7 @@
 <img height="273em" src="https://leetcard.jacoblin.cool/raoxaman?theme=light&font=Karma&ext=contest" />
 <img height="275em" src="https://raw.githubusercontent.com/amanraox/cp-statistics/main/output/light_card.svg" />
 </p>
-<div align="center"><br><b>📈 Competitive Programming 📉</b><br></div>
+<div align="center"><b>📈 Competitive Programming 📉</b><br></div>
 
 <!--
 <p style="width: 300px;">
