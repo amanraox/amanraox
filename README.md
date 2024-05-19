@@ -13,7 +13,7 @@
 </div>
 
 <br>
-<b>&#128200; Competitive Programming</b>
+<div align="center"><b>📈 Competitive Programming 📉</b></div>
 
 
 
