@@ -48,5 +48,5 @@
   <!--<a href="https://leetcode.com/u/raoxaman/" target="_blank" rel="noopener noreferrer"><img src="https://leetcard.jacoblin.cool/raoxaman?theme=dark" width="370" /></a>-->
   <!--<a href="https://open.spotify.com/album/3pFzzo6Z1oD7qaxk4DBJpY?si=KhZeMgEORZivgn9SKuw8eQ" target="_blank" rel="noopener noreferrer"></a>-->
 	<img src="/asset/spotifyd.svg"/>
-	<img src="https://readme-jokes.vercel.app/api?bgColor=%23000000&textColor=%23ffffff&aColor=%2300ff1a&borderColor=%2300f2ff" width="300" style="vertical-align: middle;" />
+	<img src="https://readme-jokes.vercel.app/api?bgColor=%23000000&textColor=%23ffffff&aColor=%2300ff1a&borderColor=%2300f2ff"style="vertical-align: middle;" />
 </p>
