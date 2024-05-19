@@ -21,7 +21,7 @@
 <img height="273em" src="https://leetcard.jacoblin.cool/raoxaman?theme=light&font=Karma&ext=contest" />
 <img height="280em" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" />
 </p>
--->
+
 <p style="width: 300px;">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/raoxaman?theme=light&font=Karma&ext=contest">
@@ -35,7 +35,7 @@
   <img alt="GitHub Profile Image" src="https://skillicons.dev/icons?i=java,nodejs&theme=light">
 </picture>
 </p>
-
+-->
 
 
 # GitHub Stats <img src = "https://media2.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e47aesxaltjbkcl14elm14io1ph1oj1i3buk2388c21&rid=giphy.gif&ct=s" width =40px>
