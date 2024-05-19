@@ -11,6 +11,9 @@
 	<div> ⚙️C/C++  🐍Python  👾Java  🗑️JS </div>
 
 </div>
+<b>&#128200; Competitive Programming</b>
+
+<!--
 
 <p align="middle">
 <img height="273em" src="https://leetcard.jacoblin.cool/raoxaman?theme=light&font=Karma&ext=contest" />
@@ -30,6 +33,8 @@
   <img alt="GitHub Profile Image" src="https://skillicons.dev/icons?i=java,nodejs&theme=light">
 </picture>
 </p>
+
+-->
 
 # GitHub Stats <img src = "https://media2.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e47aesxaltjbkcl14elm14io1ph1oj1i3buk2388c21&rid=giphy.gif&ct=s" width =40px>
 <picture>
