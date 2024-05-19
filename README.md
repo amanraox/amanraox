@@ -28,7 +28,6 @@
 
 
 
-<!--
 <!-- LIGHT THEME 
 
 <p align="middle">
