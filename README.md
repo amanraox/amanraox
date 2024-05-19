@@ -11,7 +11,7 @@
 	<div> ⚙️C/C++  🐍Python  👾Java  🗑️JS </div>
 
 </div>
-<div align="center"><b><h2>📈 Competitive Programming 📉</h2></b></div>
+<div align="center"><b><h2>📉 Competitive Programming 📈</h2></b></div>
 <p align="middle">
 <img height="315em" src="https://leetcard.jacoblin.cool/raoxaman?theme=dark&font=Duru%20Sans&ext=contest&border=0&radius=13" />
 <img height="317em" src="https://raw.githubusercontent.com/amanraox/cp-statistics/main/output/light_card.svg#gh-dark-mode-only" />
