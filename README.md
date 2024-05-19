@@ -28,8 +28,8 @@
 
 
 
-
-<!-- LIGHT THEME-->
+<!--
+<!-- LIGHT THEME 
 
 <p align="middle">
    <a href="https://open.spotify.com/album/3pFzzo6Z1oD7qaxk4DBJpY?si=KhZeMgEORZivgn9SKuw8eQ" target="_blank" rel="noopener noreferrer">
@@ -43,7 +43,7 @@
 </p>
 
 
-<!-- DARK THEME  -->
+<!-- DARK THEME  
 
 <p align="middle">
 <picture>
@@ -55,7 +55,7 @@
 </picture>
 </p>
 
-
+-->
 
 <!--                  KHATAM CP                -->
 
