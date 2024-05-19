@@ -18,15 +18,19 @@
 
 <p align="middle">
 <img height="315em" src="https://leetcard.jacoblin.cool/raoxaman?theme=dark&font=Duru%20Sans&ext=contest&border=0&radius=13" />
-<img height="317em" src="https://raw.githubusercontent.com/amanraox/cp-statistics/main/output/light_card.svg#gh-dark-mode-only" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amanraox/cp-statistics/main/output/light_card.svg#gh-dark-mode-only">
+</picture>
 </p>
 <div align="center"><b><h3>📈 Competitive Programming 📉</h3></b><br></div>
 
 <!--
+<img height="317em" src="https://raw.githubusercontent.com/amanraox/cp-statistics/main/output/light_card.svg#gh-dark-mode-only" />
 <p style="width: 300px;">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/raoxaman?theme=light&font=Karma&ext=contest">
 </picture>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg">
   <img alt="GitHub Profile Image" src="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg" width="400">
