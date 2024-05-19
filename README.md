@@ -27,7 +27,7 @@
 </picture>
 <picture>
   <!--<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/light_card.svg">-->
-  <img alt="GitHub Profile Image" src="https://skillicons.dev/icons?i=java,kotlin,nodejs&theme=light">
+  <img alt="GitHub Profile Image" src="https://skillicons.dev/icons?i=java,nodejs&theme=light">
 </picture>
 </p>
 
