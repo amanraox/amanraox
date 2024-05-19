@@ -19,7 +19,7 @@
 
 <p align="middle">
 <img height="273em" src="https://leetcard.jacoblin.cool/raoxaman?theme=light&font=Karma&ext=contest" />
-<img height="280em" src="https://raw.githubusercontent.com/amanraox/cp-statistics/main/output/light_card.svg" />
+<img height="290em" src="https://raw.githubusercontent.com/amanraox/cp-statistics/main/output/light_card.svg" />
 </p>
 <!--
 <p style="width: 300px;">
