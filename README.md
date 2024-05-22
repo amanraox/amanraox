@@ -86,4 +86,4 @@
 <img src="https://readme-jokes.vercel.app/api?bgColor=%23ffffff&textColor=%23ffffff&aColor=%2300ff1a&borderColor=%2300f2ff"style="vertical-align: middle;" />
 </picture>
 </p>
-<img src="/asset/pc170.svg" alt=""/>
+<img src="https://profile-counter.glitch.me/sahilatahar/count.svg" alt=""/>
