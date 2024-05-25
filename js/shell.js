@@ -2,7 +2,7 @@ import { handle } from "./cmds.js";
 
 const msg = "Logged in to amanraox's server " + navigator.platform + "!";
 const welcome = `<div class="nomobile">
-         <span data-color="red">||></span>
+         <span data-color="lime">|></span>
         <span data-color="lime">/  \\     _ __ ___     __ _   _ __</span>
        <span data-color="lime">/ <span data-color="orange">/\\</span> \\   |  _   _ \\   / _  | |  _ \\</span>
       <span data-color="lime">/ ____ \\  | | | | | | | (_| | | | | |</span>
@@ -11,8 +11,8 @@ const welcome = `<div class="nomobile">
     
 <span data-color="yellow">So finally you found this corner of the internet</span>
 
-Welcome!
-I'm <span data-color="red"><a href="https://linkedin.com/in/amanraox">Aman Umrao</a></span>, a self-taught <span data-color="yellow">Web Developer</span> and hobbyist <span data-color="yellow">Competitive Programmer</span> from <span data-color="lime">India</span>🇮🇳️.
+Welcome! I'm <span data-color="red"><a href="https://linkedin.com/in/amanraox">Aman Umrao</a></span>, a self-taught <span data-color="yellow">Web Developer</span> and hobbyist <span data-color="yellow">Competitive Programmer</span> from <span data-color="lime">India</span>🇮🇳️.
+<span data-color="yellow">Don't like terminal style?? Type </span><span data-color="red"><a href="https://amanraox.vercel.app">gui</a></span>
 <br>Play around here..<b>Type <span data-color="yellow">help</span><br> `;
 const sleep = (m) => new Promise((r) => setTimeout(r, m));
 const terminal = document.querySelector("pre");
