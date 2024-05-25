@@ -9,7 +9,7 @@ const welcome = `<div class="nomobile">
      <span data-color="lime">/_/    \\_\\ |_| |_| |_|  \\__,_| |_| |_|</span>
     <span data-color="cyan"><~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~> </span>
     
-<span data-color="yellow">So finally you found this corner of the internet</span>
+So finally you found this corner of the internet 
 
 Welcome! I'm <span data-color="red"><a href="https://linkedin.com/in/amanraox">Aman Umrao</a></span>, a self-taught <span data-color="yellow">Web Developer</span> and hobbyist <span data-color="yellow">Competitive Programmer</span> from <span data-color="lime">India</span>🇮🇳️.
 <span data-color="yellow">Don't like terminal style?? Type </span><span data-color="red"><a href="https://amanraox.vercel.app">gui</a></span>
