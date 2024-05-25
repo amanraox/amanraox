@@ -12,7 +12,7 @@ const welcome = `<div class="nomobile">
 So finally you found this corner of the internet 
 
 Welcome! I'm <span data-color="red"><a href="https://linkedin.com/in/amanraox">Aman Umrao</a></span>, a self-taught <span data-color="yellow">Web Developer</span> and hobbyist <span data-color="yellow">Competitive Programmer</span> from <span data-color="lime">India</span>🇮🇳️.
-<span data-color="yellow">Don't like terminal style?? Type </span><span data-color="red"><a href="https://amanraox.vercel.app">gui</a></span>
+<span data-color="yellow">Don't like terminal style??</span> Type <span data-color="red"><a href="https://amanraox.vercel.app">gui</a></span>
 <br>Play around here..<b>Type <span data-color="yellow">help</span><br> `;
 const sleep = (m) => new Promise((r) => setTimeout(r, m));
 const terminal = document.querySelector("pre");
