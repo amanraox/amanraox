@@ -5,6 +5,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=0EF7F4&center=true&vCenter=true&random=false&width=435&lines=An+Engineer;I+write+Bugs!;Explore+What+I've+Build;They+say+I'm+Introvert">
   <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=21&pause=1000&color=34F700&center=true&vCenter=true&random=false&width=435&lines=An+Engineer;I+write+Bugs!;Explore+What+I've+Build;They+say+I'm+Introvert">
+	<img src="[/experiment/giphy.gif](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=0EF7F4&center=true&vCenter=true&random=false&width=435&lines=An+Engineer;I+write+Bugs!;Explore+What+I've+Build;They+say+I'm+Introvert)" alt="Hi"/>
 </picture>
 </div>
 	<div> ⚙️C/C++  🐍Python  👾Java  🗑️JS </div>
