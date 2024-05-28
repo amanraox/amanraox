@@ -1,6 +1,6 @@
 import { handle } from "./cmds.js";
 
-const msg = "Logged in to amanraox's server " + navigator.platform + "!";
+const msg = "Logged in to amanraox's server Linux x86_64 from " + navigator.platform + "!";
 const welcome = `<div class="nomobile">
          <span data-color="#00ff99">|></span>
         <span data-color="#00ff99">/  \\     _ __ ___     __ _   _ __</span>
