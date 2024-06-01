@@ -16,7 +16,7 @@
    <a href="https://leetcode.com/u/raoxaman/" target="_blank" rel="noopener noreferrer">
 <img height="315em" src="https://leetcard.jacoblin.cool/raoxaman?theme=dark&font=Duru%20Sans&ext=contest&border=0&radius=13" /></a>
 	   <a href="https://codeforces.com/profile/amanloves69" target="_blank" rel="noopener noreferrer">
-<img height="317em" src="https://raw.githubusercontent.com/amanraox/cp-statistics/main/output/light_card.svg#gh-dark-mode-only" /></a>
+<img height="317em" src="[https://raw.githubusercontent.com/amanraox/cp-statistics/main/output/light_card.svg#gh-dark-mode-only](https://codeforces-readme-stats.vercel.app/api/card?username=amanloves69&theme=github_dark&force_username=true&border_color=000)" /></a>
 
 </p>
 
