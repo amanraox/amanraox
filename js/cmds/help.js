@@ -6,7 +6,7 @@ Here Is A List Of Commands:
     <span data-color="#00ff99">gui                </span> <span data-color="grey">-</span> <span data-color="white">Activate Graphical Mode.</span>
     <span data-color="#00ff99">about              </span> <span data-color="grey">-</span> <span data-color="white">know Aman</span>
     <span data-color="#00ff99">quote              </span> <span data-color="grey">-</span> <span data-color="white">Just Some Random Quotes.</span>
-    <span data-color="#00ff99">source             </span> <span data-color="grey">-</span> <span data-color="white">Source Code For This Website.</span>
+    <span data-color="#00ff99">source             </span> <span data-color="grey">-</span> <span data-color="white">Source Code</span>
     <span data-color="#00ff99">projects [name?]   </span> <span data-color="grey">-</span> <span data-color="white">My Github Repos!</span>
     <span data-color="#00ff99">socials [platform?]</span> <span data-color="grey">-</span> <span data-color="white">Contact Me Here!</span>
 <span data-color="grey">--------------------------------------------</span>
