@@ -36,7 +36,7 @@ export default async function (output, _hist, ...args) {
     });
 
     output.innerHTML += `
-Checkout more Awesome Projects on my <span color="cyan"><a href="https://github.com/amanraox?tab=repositories">Github</a></span>\n
+Checkout more Awesome Projects on my <span data-color="cyan"><a href="https://github.com/amanraox?tab=repositories">Github</a></span>\n
 `;
   }
 }
