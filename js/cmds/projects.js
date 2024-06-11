@@ -16,7 +16,7 @@ export default async function (output, _hist, ...args) {
 
     const nonForkedRepositories = repositories
       .filter((repo) => !repo.fork)
-      .slice(0, 10);
+      .slice(0, 20);
 
     const repositoriesInfo = nonForkedRepositories.map((repo) => ({
       name: repo.name,
