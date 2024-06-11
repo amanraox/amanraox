@@ -32,11 +32,11 @@ export default async function (output, _hist, ...args) {
     output.innerHTML += '\n';
 
     repositoriesInfo.forEach((repo) => {
-      output.innerHTML += `\<span data-color="cyan"><a href="${repo.link}">${repo.name}</a></span> <span data-color="#00ff99">${repo.stars}</span> <span data-color="grey">|==>></span> ${repo.description}\n`;
+      output.innerHTML += `\<span data-color="00ff99"><a href="${repo.link}">${repo.name}</a></span> <span data-color="#00ff99">${repo.stars}</span> <span data-color="grey">|==>></span> ${repo.description}\n`;
     });
 
     output.innerHTML += `
-View More On My <span><a href="https://github.com/amanraox?tab=repositories">Github</a></span>\n
+Checkout more Awesome Projects on my <span color="cyan"><a href="https://github.com/amanraox?tab=repositories">Github</a></span>\n
 `;
   }
 }
