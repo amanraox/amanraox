@@ -2,7 +2,7 @@ import { handle } from "./cmds.js";
 
 const msg = "Logged in to amanraox's server from " + navigator.platform + "!";
 const welcome = `<div class="nomobile">
-         <span data-color="#00ff99">|></span>
+         <span data-color="#00ff99">/\\</span>
         <span data-color="#00ff99">/  \\     _ __ ___     __ _   _ __</span>
        <span data-color="#00ff99">/ <span data-color="#00ff99">/\\</span> \\   |  _   _ \\   / _  | |  _ \\</span>
       <span data-color="#00ff99">/ ____ \\  | | | | | | | (_| | | | | |</span>
