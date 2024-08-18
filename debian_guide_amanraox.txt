@@ -13,7 +13,7 @@ see best extension in youtube/gnome-extensions site for u
 setup shortcuts
 (aweeyy) install cowsay and lolcat , aview
 create alias in bashrc and give permission to xyz.sh through 'chmod +x'
-install from github sourses --> alacritty,
+install from github sources --> alacritty,
 Terminal setup-->eza,zoxide,fzf
 
 
