@@ -75,10 +75,9 @@
 
 <p align="middle">
    <a href="https://open.spotify.com/album/3pFzzo6Z1oD7qaxk4DBJpY?si=KhZeMgEORZivgn9SKuw8eQ" target="_blank" rel="noopener noreferrer">
-	  <picture>
+<picture>
   <source media="(prefers-color-scheme: light)" srcset="/asset/spotifyl.svg">
-		  <source media="(prefers-color-scheme: dark)" srcset="/asset/spotifyd.svg">
-		  <source media="(prefers-color-scheme: light)" srcset="/asset/spotifyd.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="/asset/spotifyd.svg">
 </picture>
   </a>
 <picture>
