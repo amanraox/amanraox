@@ -78,6 +78,7 @@
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="/asset/spotifyl.svg">
   <source media="(prefers-color-scheme: dark)" srcset="/asset/spotifyd.svg">
+	<img src="/asset/spotifyd.svg" alt=""/>
 </picture>
   </a>
 <picture>
