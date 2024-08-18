@@ -1,0 +1,167 @@
+#! for amanraox future reference if i fucked up my linux again.
+install debian
+remove unnesasary apps
+install synaptic pakage manager, add shell integration extension in browser
+install mingw, python, jdk
+install chrome, brave, telegram, discord, vs code, sublime
+install extension plugins "blur my shell", "Dash to dock", "GS connect", "Gesture Improvements", "Gnome 4x UI improvements", "Impatience", "Just Perfection", "Search Light","bluetooth smart lock", "clipboard indicator", "GTK title bar", "Hide top bar", "Keep awake", "Rounded window corner", "Search Light", "Quick web search", "Places Status indicator", ""
+you can change grug settings and look using grub customizer
+tweak settings accordingly and extension setting also
+install nala, htop, trash, ranger, ncdu, hollywood, cmatrix, tlp, preload, wmctrl(always on top), bpytop, forge(tiling),
+install neofetch and flatpak (see youtube)
+see best extension in youtube/gnome-extensions site for u
+setup shortcuts
+(aweeyy) install cowsay and lolcat , aview
+create alias in bashrc and give permission to xyz.sh through 'chmod +x'
+install from github sourses --> alacritty,
+Terminal setup-->eza,zoxide,fzf
+
+
+setup 1- toggle key trigger sep 2023 (working)
+
+bash program:-
+#!/bin/bash
+extls=($(gnome-extensions list --enabled))
+k=0
+j=0
+tgl="#extension_name" // get this ls from extension names in terminal simple name will not work.
+for ele in "${extls[@]}"; do
+  if [[ "$tgl" == "$ele" ]]; then
+    k=1
+  fi
+done
+if [ "$k" -eq 1 ]; then
+    $(gnome-extensions disable #extension_name)
+else
+    $(gnome-extensions enable #extension_name)
+fi
+save in save place like "toggle.sh" and give permission and add a costum key trigger from settings  command ex: "cd home/amanraox/music/secrets && ./toggle.sh"
+
+
+setup 2- exploiting edge points oct 2023 (working)
+
+bash program test:-
+
+nu=$1
+if [ "$#" -eq 0 ]; then
+    echo "Aman you got Error:  "Please provide time argument""|lolcat
+    exit 1
+else
+killall -e -r 'chrome'
+for ((i = 2; i <= 19; i++)); do
+{
+  echo "Profile ${i}"|lolcat
+  google-chrome --profile-directory="Profile ${i}" --new-window "https://www.bing.com/search?go=Search&q=baller" & sleep ${nu}
+killall -e -r 'chrome' 
+}
+done
+fi
+
+// check if this works in your os without getting caught then only execute main one.
+bash program main-
+generate_random_string() {
+  cat /dev/urandom | tr -dc 'a-zA-Z0-9' | head -c 6
+}
+
+rs=()
+
+for ((i = 1; i <= 41; i++)); do
+  rs[i]=$(generate_random_string)
+done
+#main loop to iterate windows
+killall -e -r 'chrome'
+for ((i = 2; i <= 19; i++)); do
+{
+  echo "Profile ${i}"|lolcat
+  for ((j = 1; j <= 41; j++)); do
+  {
+  google-chrome --profile-directory="Profile ${i}" --new-window "https://www.bing.com/search?go=Search&q=${rs[j]}" & sleep 1.4
+killall -e -r 'chrome'
+  }
+  done
+}
+done
+
+setup 3 arcade mafia headache- nov 2023 (working)
+xdotool
+3 scripts
+1st to get coordinates of every click
+X_COORD=$mouse_coord_x
+Y_COORD=$mouse_coord_y
+for i in {0..3}; do
+    wmctrl -s $i
+    
+    xdotool mousemove $X_COORD $Y_COORD
+    
+    xdotool click 1
+done
+if anything doesnt work take reddit help
+update (xdo malfuntioning (Feb 2024))
+for clipboard scronization see clipboard indicator github issue.
+create a key trigger (by default it sahre same string class for all workspaces except in latest ubuntu24 soon this will be fixed(maybe;)))
+if this fails get script to initiate the parallel process for each workspace in its own terminal window with each executing same command.
+2nd script
+REF test-
+#!/bin/bash
+for cmd in "$@"; do {
+  echo "Process \"$cmd\" started";
+  $cmd & pid=$!
+  PID_LIST+=" $pid";
+} done
+trap "kill $PID_LIST" SIGINT
+echo "Parallel processes have started";
+wait $PID_LIST
+echo
+echo "All processes have completed";
+costomize accoring to task.
+use = parallel_commands "cmd arg0 arg1 arg2" "other_cmd arg0 arg2 arg3"
+master script:
+install tmux wmctrl xdotool
+chmod +x replicate_workspaces.sh
+./replicate_workspaces.sh
+
+#!/bin/bash
+num_workspaces=4
+replicate_actions() {
+    # keypresses and mouse events using xinput and xev
+    xinput list --short | grep -i "slave  pointer" | awk -F= '{ print $2 }' | awk '{ print $1 }' | while read -r mouse_device_id; do
+        xinput test $mouse_device_id | while read line; do
+            if echo "$line" | grep -q "motion"; then
+                coords=$(xdotool getmouselocation --shell | grep -E 'X|Y' | cut -d '=' -f 2)
+                IFS=$'\n' read -d '' -r -a coords_array <<< "$coords"
+                x_coord="${coords_array[0]}"
+                y_coord="${coords_array[1]}"
+                echo "Mouse moved to $x_coord, $y_coord"
+            elif echo "$line" | grep -q "button press"; then
+                button=$(echo "$line" | grep -oP 'button press \K\d+')
+                echo "Mouse button $button pressed"
+            elif echo "$line" | grep -q "button release"; then
+                button=$(echo "$line" | grep -oP 'button release \K\d+')
+                echo "Mouse button $button released"
+            fi
+            for i in $(seq 0 $(($num_workspaces - 1))); do
+                wmctrl -s $i
+                xdotool mousemove $x_coord $y_coord click $button
+            done
+        done
+    done
+}
+tmux new-session -d -s "workspace_replication"
+tmux send-keys -t "workspace_replication" "$(declare -f replicate_actions); replicate_actions" C-m
+tmux attach-session -t "workspace_replication"
+
+play with this to make it work 
+little explaination here.
+firstly we are capturing mouse movement and clicks and then replicating the same for every workspace using tmux.
+#to try - if possible have a key trigger for pausing all these processes for some time 
+similarly do for keyboard we just need to setup clipboard indicator correctly if you're in debian then most probably it will work fine until and unless debian 13 fucks this.(tried and tested in bookworm )
+for debugging remeber to use sleep 2 or 3 in places.
+test and customize according to your system logs will help to debug and improve code debugging where it fails. I have added few more lines from reddit suggestions to
+source dufferzafar bhai and paypal github guy for more refrence see their github.
+this one is godly costomization that i made.
+
+
+
+
+continously updating..
+--amanraox
