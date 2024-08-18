@@ -55,7 +55,6 @@
  <picture>
   <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanraox&theme=2077">
   <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanraox&theme=github">
-  <img alt="GitHub Profile Image" src="/profile-3d-contrib/profile-green-animate.svg">
 </picture>
  </div>
  <!--
@@ -79,7 +78,7 @@
 	  <picture>
   <source media="(prefers-color-scheme: light)" srcset="/asset/spotifyl.svg">
 		  <source media="(prefers-color-scheme: dark)" srcset="/asset/spotifyd.svg">
-  <img alt="GitHub Profile Image" src="/profile-3d-contrib/profile-green-animate.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="/asset/spotifyd.svg">
 </picture>
   </a>
 <picture>
