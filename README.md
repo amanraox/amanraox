@@ -77,6 +77,8 @@
                 <img src="image2-light.jpg" alt="Image 2" style="width: 100%; height: auto;">
             </picture>
 </div>				-->
+<h3 align="center">Open your "shell/command prompt" and type ```npx amanraox```</h3>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="middle">
    <a href="https://open.spotify.com/album/3pFzzo6Z1oD7qaxk4DBJpY?si=KhZeMgEORZivgn9SKuw8eQ" target="_blank" rel="noopener noreferrer">
