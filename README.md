@@ -78,6 +78,7 @@
             </picture>
 </div>				-->
 <h3 align="center">Open your "shell/command prompt" and type</h3> `npx amanraox`
+using `pip install -r requirements.txt`
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="middle">
