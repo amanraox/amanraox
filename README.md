@@ -77,7 +77,7 @@
                 <img src="image2-light.jpg" alt="Image 2" style="width: 100%; height: auto;">
             </picture>
 </div>				-->
-<p align="center">Open your "shell/command prompt" and type `npx amanraox`</p>
+<h3 align="center">Open your "shell/command prompt" and type</h3> `npx amanraox`
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="middle">
