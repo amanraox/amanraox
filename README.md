@@ -14,7 +14,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h3 align="center">📉 Competitive Programming 📈</h3>
 <p align="middle">
-   <a href="https://leetcode.com/u/raoxaman/" target="_blank" rel="noopener noreferrer">
+   <a href="https://leetcode.com/u/amanraox/" target="_blank" rel="noopener noreferrer">
 <img height="305em" src="https://leetcard.jacoblin.cool/raoxaman?theme=dark&font=Duru%20Sans&ext=contest&border=0&radius=13" />
 <!-- <img height="315em" src="https://leetcard.jacoblin.cool/raoxaman?font=Ubuntu&radius=13&ext=contest&sheets=https://gist.githubusercontent.com/amanraox/cf6cdd10f40353086bcb2de6694a4ce2/raw/786c10c0174e05e10c866f42ba0d47acf391b42a/leetcode_stats_card.css" /> -->
    </a>
