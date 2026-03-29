@@ -19,7 +19,7 @@
 <!-- <img height="315em" src="https://leetcard.jacoblin.cool/raoxaman?font=Ubuntu&radius=13&ext=contest&sheets=https://gist.githubusercontent.com/amanraox/cf6cdd10f40353086bcb2de6694a4ce2/raw/786c10c0174e05e10c866f42ba0d47acf391b42a/leetcode_stats_card.css" /> -->
    </a>
    <a href="https://codeforces.com/profile/amanloves69" target="_blank" rel="noopener noreferrer">
-<img height="307em" src="https://codeforces-readme-stats.vercel.app/api/card?username=amanloves69&theme=github_dark&force_username=true&border_color=000" />
+<img height="307em" src="https://codeforces-stat-card.vercel.app/api/amanloves69?theme=cyberpunk&ext=contest&border=196fd2&subtext=ffffff" />
    </a>
 </p>
 
